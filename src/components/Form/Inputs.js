@@ -55,6 +55,7 @@ export function Inputs() {
   const lidandoComAtualização = (todo) => {
     setEsHabib(true)
     setTempUuid(todo.uuid)
+    setTodo(todo.todo)
   }
 
   const HandleSubmitChange  = () => {
