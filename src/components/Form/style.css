@@ -1,0 +1,19 @@
+.lista{
+    display: block;
+    flex-direction: row;
+    
+}
+
+ul {
+ 
+    border-width: medium;
+    border-style: outset;
+    border-color: rgb(208, 208, 236);
+    padding: 10px;
+    display: block; 
+    
+}
+
+li {
+    list-style-type: none;
+  }
